@@ -1,1 +1,1 @@
-this is a sample text to check the GIT work flow. 
+This is a sample text to check the GIT work flow. 
